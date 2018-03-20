@@ -1,4 +1,4 @@
-# Optio Pricing
+# Option Pricing
 ## Binomial Model
 ### Language: C++
 I have written some programs for pricing options by using binomial models in the environment C++.
